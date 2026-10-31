@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+ Total Sales: $7,201.25
+
+ Details:
+ store201.txt: $1,500.50
+ store202.txt: $2,500.00
+ store203.txt: $3,200.75
